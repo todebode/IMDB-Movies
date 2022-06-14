@@ -56,6 +56,36 @@ c. What is the average revenue per certification category?
 
 d. What is the average budget per certification category?
 
+Bar charts showing the number of movies with valid financial information, number of movies by certification categories, average revenue per certification category and average budget per certification category are shown in Figure 1, Figure 2, Figure 3 and Figure 4 below.
+
+**Figure 1:** Bar chart of the number of movies with valid financial information
+
+![image](https://user-images.githubusercontent.com/97941938/173638842-43949783-4f65-4bad-8f26-76fa0b88c889.png)
+
+**Figure 2:** Bar chart of the number of movies by certification categories
+
+![image](https://user-images.githubusercontent.com/97941938/173639755-2b1e33bf-227e-40d1-b6ba-2c93ca8feb71.png)
+
+**Figure 3:** Bar chart of the average revenue per certification category
+
+![image](https://user-images.githubusercontent.com/97941938/173639829-2869e8d6-fff3-44ea-b879-31765444a280.png)
+
+**Figure 4:** Bar chart of the average budget per certification category
+
+![image](https://user-images.githubusercontent.com/97941938/173639877-6fe4fecd-8920-4bab-9c2a-1413fc19daa3.png)
+
+<ins>Findings</ins> 
+
+- In Figure 1, 7835 movies had valid financial information (values > 0 for budget OR revenue). This was a lot less than movies without valid financial information. There were 29052 movies without valid financial information
+
+- In Figure 2, The 'R' certification category had 1640 movies and that was the highest number of movies of all certification categories
+
+- From Figure 3, we can see that the 'PG' category had the highest average revenue
+
+- From Figure 4, we can see that the PG' category had the highest average budget
+
+
+
 ### Part 3 - Creating a Database
 
 In this part of the project, I applied an ETL (extract, transform, load) process on the previously saved movie data, and then created a new MySQL database for the data. Finally, I exported the database to a .sql file using MySQL Workbench.
