@@ -97,3 +97,23 @@ a. Does the MPAA rating of a movie (G/PG/PG-13/R etc.) affect how much revenue t
 b. Do some movie genres earn more revenue than others?
 
 c. Are some genres higher rated than others?
+
+<ins>Findings</ins> 
+
+a. Does the MPAA rating of a movie (G/PG/PG-13/R etc.) affect how much revenue the movie generates?
+
+<i> The Kruskal Wallis test returned a p-value less than .05. We rejected the null hypothesis and concluded that the MPAA rating of a movie (G/PG/PG-13/R) affects how much revenue the movie generates.<i/> 
+  
+b. Do some movie genres earn more revenue than others?
+
+<i> The Kruskal Wallis test returned a p-value less than .05. We rejected the null hypothesis and concluded that some movie genres earn more revenue than others.<i/>
+  
+c. Are some genres higher rated than others?
+  
+<i> The Kruskal Wallis test returned a p-value less than .05. We rejected the null hypothesis and concluded that some movie genres are higher rated than others.<i/>
+  
+
+
+
+
+
