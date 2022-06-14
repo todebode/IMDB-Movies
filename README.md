@@ -80,11 +80,9 @@ Bar charts showing the number of movies with valid financial information, number
 
 - In Figure 2, The 'R' certification category had 1640 movies and that was the highest number of movies of all certification categories
 
-- From Figure 3, we can see that the 'PG' category had the highest average revenue
+- From Figure 3, it was apparent that the 'PG' category had the highest average revenue
 
-- From Figure 4, we can see that the PG' category had the highest average budget
-
-
+- Figure 4 showed that the PG' category had the highest average budget
 
 ### Part 3 - Creating a Database
 
